@@ -13,7 +13,7 @@ BlindPaint: a 3Net+ for Inpainting Radar Blind Zones, maintained by [Fraser King
 
 ---
 
-## Development of a deeply supervised full-scale connected U-Net for reflectivity inpainting in spaceborne radar blind zones
+## Development of a full-scale connected U-Net for reflectivity inpainting in spaceborne radar blind zones
 
 This project is currently being written into a journal article for [Artificial Intelligence for the Earth Systems](https://www.ametsoc.org/index.cfm/ams/publications/journals/artificial-intelligence-for-the-earth-systems/).
 
@@ -93,4 +93,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Funding
 This project was funded by NASA New (Early Career) Investigator Program (NIP) grant at the [University of Michigan](https://umich.edu).
-# blindzone_inpainting
+
